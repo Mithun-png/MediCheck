@@ -1,6 +1,7 @@
 flask
 flask-cors
-google-generativeai
-Pillow
+groq
 pyjwt
 python-dotenv
+Pillow
+requests
